@@ -47,7 +47,7 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 Add your repository link here.
 
 Example:
-
+https://github.com/ranijoy3-alt/Breast-Cancer-Model-Comparison
 
 
 ---
@@ -177,6 +177,7 @@ streamlit run app.py
 # 🌐 Live Streamlit Application
 
 Add your Streamlit URL here.
+https://breast-cancer-model-comparison-vnwju89msgjvpnjwzzm3nz.streamlit.app/
 
 
 
